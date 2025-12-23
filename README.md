@@ -2,6 +2,13 @@
 
 This repository contains the LaTeX source code for the resume of Sourish Chandra.
 
+## Additional Documentation
+
+This repository also includes comprehensive API documentation for DECIMER.ai:
+
+- **[DECIMER API Documentation](DECIMER_API_Documentation.md)** - Complete guide to DECIMER.ai API endpoints for file upload and SMILES generation
+- **[DECIMER API Quick Reference](DECIMER_API_Quick_Reference.md)** - Quick reference guide with diagrams and examples
+
 ## Description
 
 The resume is formatted using the `article` class with a two-column layout created using the `multicol` package. It features customized section headings, compact lists, and colored clickable hyperlinks.
