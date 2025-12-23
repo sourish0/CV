@@ -6,6 +6,7 @@ This repository contains the LaTeX source code for the resume of Sourish Chandra
 
 This repository also includes comprehensive API documentation for DECIMER.ai:
 
+- **[DECIMER API Key Findings](DECIMER_API_Key_Findings.md)** - Quick summary of key findings (START HERE!)
 - **[DECIMER API Documentation](DECIMER_API_Documentation.md)** - Complete guide to DECIMER.ai API endpoints for file upload and SMILES generation
 - **[DECIMER API Quick Reference](DECIMER_API_Quick_Reference.md)** - Quick reference guide with diagrams and examples
 
